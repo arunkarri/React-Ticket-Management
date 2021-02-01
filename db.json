@@ -1,0 +1,74 @@
+{
+  "tickets": [
+    {
+      "title": "Query 1 regarding React.js",
+      "description": "I have a query regarding func and class components in React",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Query 2 regarding React.js",
+      "description": "I have a query regarding func and class components in React.js"
+    },
+    {
+      "id": 3,
+      "title": "Query 3 regarding React",
+      "description": "I have a query regarding func and class components in React"
+    },
+    {
+      "id": 4,
+      "title": "Query 4 regarding React.js",
+      "description": "I have a query regarding func and class components in React"
+    },
+    {
+      "id": 5,
+      "title": "Query 5 regarding React",
+      "description": "I have a query regarding func and class components in React"
+    },
+    {
+      "id": 6,
+      "title": "Query 6 regarding React",
+      "description": "I have a query regarding func and class components in React"
+    },
+    {
+      "id": 7,
+      "title": "Query 7 regarding React",
+      "description": "I have a query regarding func and class components in React"
+    },
+    {
+      "id": 8,
+      "title": "Query 8 regarding React",
+      "description": "I have a query regarding func and class components in React"
+    },
+    {
+      "id": 9,
+      "title": "Query 9 regarding React",
+      "description": "I have a query regarding func and class components in React"
+    },
+    {
+      "id": 10,
+      "title": "Query 10 regarding React",
+      "description": "I have a query regarding func and class components in React"
+    },
+    {
+      "title": "Query Add",
+      "description": "Query regarding func and class components in React",
+      "id": 11
+    },
+    {
+      "title": "Query Add",
+      "description": "Query regarding func and class components in React",
+      "id": 12
+    },
+    {
+      "title": "Query Add",
+      "description": "Query regarding func and class components in React",
+      "id": 13
+    },
+    {
+      "title": "Query Add 33",
+      "description": "Query regarding func and class components in React",
+      "id": 14
+    }
+  ]
+}

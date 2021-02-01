@@ -1,0 +1,11 @@
+.pointer {
+  cursor: pointer;
+}
+.container{
+  margin-top: 10px;
+}
+.spinner-border{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
